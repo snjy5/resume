@@ -1,11 +1,11 @@
 base_url = "https://thecatvoid.online"
-title = "Sanjay MV - SysAdmin & Linux Specialist"
+title = "Sanjay MV - Junior SysAdmin & Linux Specialist"
 compile_sass = false
 build_search_index = false
 
 [extra]
 name = "Sanjay MV"
-headline = "SysAdmin & Linux Specialist"
+headline = "Junior SysAdmin & Linux Specialist"
 location = "Kannur, Kerala, 670594, India"
 phone = "(+91) 8921180547"
 email = "sanjay.mv.official@gmail.com"
@@ -13,12 +13,12 @@ linkedin = "https://www.linkedin.com/in/sanjay-mv-5b4946319"
 github = "https://github.com/snjy5"
 website = "https://thecatvoid.online"
 github_username = "snjy5"
-summary = "Self-taught SysAdmin and Linux Specialist with 7+ years of independent, hands-on experience designing, automating, and securing server, cloud, and self-hosted infrastructure. Strong background in kernel compilation, deployment pipelines, and general software maintenance, building, patching and debugging. Now seeking a first professional role to apply this depth within a team environment."
+summary = "Self-taught SysAdmin and Linux Specialist with 7+ years of independent and personal, hands-on experience designing, automating, and securing server, cloud, and self-hosted infrastructure. Strong background in kernel compilation, deployment pipelines, and general software maintenance, building, patching and debugging. Now seeking a first professional role to apply this depth within a team environment."
 
 skills = [
   { category = "Operating Systems", items = "Proxmox, Fedora, Ubuntu, Debian, Arch, Gentoo, NixOS, RHEL, Void Linux" },
   { category = "Languages & Scripting", items = "Bash, POSIX sh, Python, Java, PHP" },
-  { category = "Virtualization & Cloud", items = "Hetzner VPS, Docker, KVM, virt-manager, QEMU, VirtualBox" },
+  { category = "Virtualization & Cloud", items = "Hetzner VPS, Docker, virt-manager, QEMU, VirtualBox" },
   { category = "Automation & CI/CD", items = "Ansible, Terraform, GitHub/GitLab/Cirrus CI, custom systemd units & timers" },
   { category = "Networking & Security", items = "DNS, DHCP, HTTP servers, VPNs, Firewalls (ufw/iptables/firewalld), Cisco CLI, Network Routing, TCP/IP, Disk Encryption, Linux hardening" },
   { category = "Storage & Databases", items = "MySQL, SQLite, Partitioning, ZFS software RAID, LVM, Backup Pipelines" },
@@ -34,8 +34,8 @@ location = "Kerala, India (Remote)"
 points = [
   "Compiled, configured, and hardened custom Linux kernels; managed boot processes and init systems across distros.",
   "Automated provisioning and configuration management using Ansible, Terraform, Docker, Bash, and Python; maintained self-authored Ansible roles and CI pipelines (GitHub/GitLab/Cirrus CI).",
-  "Built a Java-based offline code execution runner for direct compilation/execution (2nd place, district tech fest).",
-  "Managed Hetzner/AWS VPS, KVM/QEMU virtual machines, and containerized self-hosted environments.",
+  "Built a Java-based offline code execution runner for direct compilation/execution.",
+  "Managed Hetzner/AWS VPS, QEMU virtual machines, and containerized self-hosted environments.",
   "Configured DNS, DHCP, HTTP servers, and VPNs behind hardened firewalls (ufw/iptables/firewalld) with disk encryption for secure remote access.",
   "Administered storage and databases using ZFS software RAID, LVM, MySQL/SQLite, and automated backup pipelines.",
   "Performed system rescue and data recovery, including GRUB troubleshooting; maintained custom PKGBUILD/AUR packages, Gentoo EBUILDs, and systemd units/timers.",
